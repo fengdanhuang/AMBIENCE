@@ -15,3 +15,5 @@ large datasets.
    Intermediate output sample files: o1_job-a\part-r-00000, o1_job-b\part-r-00000;
                                      o2_job-a\part-r-00000, o2_job-b\part-r-00000;
                                      o3_job-a\part-r-00000, o3_job-b\part-r-00000.
+
+5. In the input file, each row represents a sample. The first N-1 column represents N-1 geno type. The last column represents 1 pheno type.
